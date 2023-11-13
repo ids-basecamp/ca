@@ -1,3 +1,10 @@
+# 1.0.0 (2023-11-13)
+
+
+### Features
+
+* init project ([59911b0](https://github.com/truzzt/ids-basecamp-ca/commit/59911b041ef3fa923298e9b287a35a7e34d2c533))
+
 # 1.0.0 (2023-07-31)
 
 
